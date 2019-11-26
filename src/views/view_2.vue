@@ -30,7 +30,7 @@
           					v-model="form.email"
           					type="email"
           					required
-          					placeholder="Enter email"
+          					placeholder="Enter emailmu"
         				>
         				</b-form-input>
         				</b-form-group>

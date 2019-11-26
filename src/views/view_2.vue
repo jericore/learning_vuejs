@@ -56,7 +56,7 @@
 
       					<b-form-group id="input-group-4">
         						<b-form-checkbox-group v-model="form.checked" id="checkboxes-4">
-          						<b-form-checkbox value="me">Check me out</b-form-checkbox>
+          						<b-form-checkbox value="me">Check me out baby</b-form-checkbox>
           						<b-form-checkbox value="that">Check that out</b-form-checkbox>
         				</b-form-checkbox-group>
       					</b-form-group>

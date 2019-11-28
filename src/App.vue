@@ -40,6 +40,7 @@
     </b-collapse>
   </b-navbar>
 </div>
+
 <div id="route">
    <router-view/>
 </div>
